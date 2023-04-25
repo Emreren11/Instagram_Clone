@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292333699529",
+    "project_id": "instavlonejava",
+    "storage_bucket": "instavlonejava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292333699529:android:0688c6ccdf7df233d66818",
+        "android_client_info": {
+          "package_name": "com.emre.instagramclonejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292333699529-a48fihmmhisftoihgh5iodbr7mbur7k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Gru03_RQNtZjbagj5YhORsKksHLjBto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292333699529-a48fihmmhisftoihgh5iodbr7mbur7k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
